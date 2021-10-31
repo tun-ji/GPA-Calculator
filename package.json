@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "    Edited README.md to include 'node.js' installation"
+    "url": "https://github.com/tun-ji/GPA-Calculator"
   },
   "keywords": [
-    "^C"
+    ""
   ],
-  "author": "^C",
-  "license": "ISC"
+  "author": "Tomilola Adeniran",
+  "license": "MIT"
 }
