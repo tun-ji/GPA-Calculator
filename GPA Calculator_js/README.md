@@ -1,4 +1,5 @@
 **Instructions for Use**
 On first use,
-run 'npm install readline-sync'
-run 'npm install objects-to-csv'
+1. Ensure you have node.js installed
+2. run 'npm install readline-sync'
+3. run 'npm install objects-to-csv'
