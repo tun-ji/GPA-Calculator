@@ -1,3 +1,5 @@
+// Used to test the GPA Calculator
+
 subject = { 'English': 2, 'Communication': 2, 'Economics': 2, 'Library': 2, 'Theology': 3, 'Information Science': 3, 'Python': 3, };
 gradeunit = { 'A': 5, 'B': 4, 'C': 3, 'D': 2, 'F': 0 };
 grades = []

@@ -1,3 +1,4 @@
+// used to figure out creating new 'people'
 registeredPeople = []
 
 class Person {
