@@ -2,5 +2,22 @@
   "dependencies": {
     "objects-to-csv": "^1.3.6",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "gpa-calculator_js",
+  "description": "**Instructions for Use**\r On first use,\r 1. Ensure you have node.js installed\r 2. run 'npm install readline-sync'\r 3. run 'npm install objects-to-csv'",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "    Edited README.md to include 'node.js' installation"
+  },
+  "keywords": [
+    "^C"
+  ],
+  "author": "^C",
+  "license": "ISC"
 }
