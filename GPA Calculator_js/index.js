@@ -100,10 +100,11 @@ do {
             saveStudentsToFile();
             break;
         case '4':
-            console.log('Thank you for using this program!');
+            // console.log('Thank you for using this program!');
+            process.exit()
             break;
     }
-} while (functionality != 3);
+} while (functionality != 4);
 
 function newStudent() {
     readlineSync = require('readline-sync');
